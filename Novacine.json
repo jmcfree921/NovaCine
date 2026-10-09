@@ -1,0 +1,9 @@
+{
+  "update": {
+    "latest_version": 3,
+    "required": true,
+    "title": "Bản cập nhật Nowcine 3.0",
+    "message": "Đã có phiên bản mới, vui lòng cập nhật.",
+    "download_url": "https://github.com/jmcfree921/NowCine/releases/download/3.0/Nowcine8.0.apk"
+  }
+}
