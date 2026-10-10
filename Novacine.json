@@ -1,9 +1,9 @@
 {
   "update": {
-    "latest_version": 5,
+    "latest_version": 6,
     "required": true,
-    "title": "Bản cập nhật Novacine 5.0",
+    "title": "Bản cập nhật Novacine 6.0",
     "message": "Đã có phiên bản mới, vui lòng cập nhật.",
-    "download_url": "https://github.com/jmcfree921/NovaCine/releases/download/V5.0/Novacine5.0.apk"
+    "download_url": "https://github.com/jmcfree921/NovaCine/releases/download/V6.0/Novacine6.0.apk"
   }
 }
