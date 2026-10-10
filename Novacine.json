@@ -1,9 +1,9 @@
 {
   "update": {
-    "latest_version": 3,
+    "latest_version": 4,
     "required": true,
-    "title": "Bản cập nhật Novacine 3.0",
+    "title": "Bản cập nhật Novacine 4.0",
     "message": "Đã có phiên bản mới, vui lòng cập nhật.",
-    "download_url": "https://github.com/jmcfree921/Novacine/blob/main/Novacine3.0.apk?raw=true"
+    "download_url": "https://github.com/jmcfree921/Novacine/blob/main/Novacine4.0.apk?raw=true"
   }
 }
